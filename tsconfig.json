@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "es2015",
+    "target": "es6",
+    "inlineSourceMap": true,
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules",
+    "**/__tests__/*"
+  ]
+}
